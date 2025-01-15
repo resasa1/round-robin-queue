@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Dr. Zulkipli",
+        "id": 1,
+        "speciality": "General Practitioner"
+    },
+    {
+        "name": "Dr. Aziz",
+        "id": 2,
+        "speciality": "Dentist"
+    },
+    {
+        "name": "Dr. Azizah",
+        "id": 3,
+        "speciality": "Dermatologist"
+    },
+    {
+        "name": "Dr. Zul",
+        "id": 4,
+        "speciality": "General Practitioner"
+    },
+    {
+        "name": "Dr. Zulkipli",
+        "id": 5,
+        "speciality": "General Practitioner"
+    },
+    {
+        "name": "Dr. Aziz",
+        "id": 6,
+        "speciality": "Dentist"
+    },
+    {
+        "name": "Dr. Azizah",
+        "id": 7,
+        "speciality": "Dermatologist"
+    },
+    {
+        "name": "Dr. Zul",
+        "id": 8,
+        "speciality": "General Practitioner"
+    },
+    {
+        "name": "Dr. Zulkipli",
+        "id": 9,
+        "speciality": "General Practitioner"
+    },
+    {
+        "name": "Dr. Aziz",
+        "id": 10,
+        "speciality": "Dentist"
+    },
+    {
+        "name": "Dr. Azizah",
+        "id": 11,
+        "speciality": "Dermatologist"
+    },
+    {
+        "name": "Dr. Zul",
+        "id": 12,
+        "speciality": "General Practitioner"
+    },
+    {
+        "name": "Dr. Zulkipli",
+        "id": 13,
+        "speciality": "General Practitioner"
+    },
+    {
+        "name": "Dr. Aziz",
+        "id": 14,
+        "speciality": "Dentist"
+    },
+    {
+        "name": "Dr. Azizah",
+        "id": 15,
+        "speciality": "Dermatologist"
+    },
+    {
+        "name": "Dr. Zul",
+        "id": 16,
+        "speciality": "General Practitioner"
+    },
+    {
+        "name": "Dr. Zulkipli",
+        "id": 17,
+        "speciality": "General Practitioner"
+    },
+    {
+        "name": "Dr. Aziz",
+        "id": 18,
+        "speciality": "Dentist"
+    }
+]
